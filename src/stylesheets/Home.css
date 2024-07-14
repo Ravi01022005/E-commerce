@@ -1,0 +1,54 @@
+@media screen and (max-width: 1200px) {
+    .gallery {
+      display: none !important;
+    }
+    .info_of_home{
+width: 100% !important;
+text-align: center;
+    }
+    .section_1{
+        justify-content: center !important;
+     }
+
+    .s2-title{
+ font-size:56px;
+ text-align: center;
+     }
+
+   .featured-images{
+    width: 100% !important;
+    height: 100% !important;
+       margin-top: 5%;
+     }  
+     .card{
+    width:30rem !important;
+      }
+      .list_frame{
+         flex-direction: column;
+        align-items: center;
+      }
+  }
+
+
+  @media screen and (max-width:900px) {
+    .section-2{
+ display:none !important;
+        }        .comfy{
+          flex-direction: column !important;
+        }
+        .comfy_i{
+           display: block !important;
+           margin-right:20px !important;
+        }
+        .about_p{
+          text-align: center !important;
+        }
+        .filter{
+          width: 100%;
+          flex-direction: column;
+           }
+           .list_frame{
+             flex-direction: column;
+           align-items: center;
+          }
+  }

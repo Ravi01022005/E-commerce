@@ -1,0 +1,14 @@
+ .f{
+    boxShadow: 0 5px 10px rgb(46, 35, 35);
+    outline: none;
+    color: rgb(5, 8, 44);
+ }
+ @media screen and (max-width:1200px) {
+   .section-2{
+ .card{
+   width: 100% !important;
+   height: 700px;
+ }
+   } 
+ }
+ 
